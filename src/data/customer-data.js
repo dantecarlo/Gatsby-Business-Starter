@@ -23,4 +23,4 @@ export default [
     customerTitle: 'Director of Research and Data',
     customerImage: 'https://placeimg.com/150/150/people'
   }
-];
+]
